@@ -1,0 +1,14 @@
+.btnYes {
+    background-color:black;
+    color: white;
+}
+
+.btnNo {
+    background-color: yellow;
+}
+
+.btnYes, 
+.btnNo {
+    font-size: 28px;
+    font-family: "Times New Roman", sans-serif;
+}
